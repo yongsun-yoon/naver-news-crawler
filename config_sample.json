@@ -1,0 +1,18 @@
+{
+    "domain": [
+        {"name": "정치", "id": "100", "keyword": null},
+        {"name": "경제", "id": "101", "keyword": null},
+        {"name": "사회", "id": "102", "keyword": null},
+        {"name": "생활/문화", "id": "103", "keyword": null},
+        {"name": "세계", "id": "104", "keyword": null},
+        {"name": "IT/과학", "id": "105", "keyword": null},
+        {"name": "지역", "id": null, "keyword": ["경기도", "의정부"]},
+        {"name": "AI", "id": null, "keyword": ["AI", "인공지능", "머신러닝"]}
+    ],
+
+    "num_articles": 100,
+
+    "aws_access_key_id": "YOUR AWS ACCESS KEY ID",
+    "aws_secret_access_key": "YOUR AWS SECRET ACCESS KEY",
+    "aws_s3_bucket": "YOUR S3 BUCKET"
+}
